@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="file-storage-core-1.0.0">
+    <CLASSES>
+      <root url="jar://C:/repo/com/jqdi/file-storage-core/1.0.0/file-storage-core-1.0.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/repo/com/jqdi/file-storage-core/1.0.0/file-storage-core-1.0.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

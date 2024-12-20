@@ -1,0 +1,4 @@
+﻿1、此程序是后端源码，只有接口部分，如需完整运行项目，需要前端部分的支持
+2、部署文档 https://docs.qq.com/doc/DY1ZnR3pjeHF5Qmpl
+3、项目文档 https://docs.qq.com/doc/DY0NQRlJlZ053WUNW
+4、老罗的视频和源码受B站版权保护，请勿外传，二次售卖，商用，源码仅限个人学习使用
